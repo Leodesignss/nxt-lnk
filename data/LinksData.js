@@ -29,6 +29,13 @@ const webLinks = [
         icon: '/linkedin.svg',
         on: true
     },
+    {
+        title: 'Spotify',
+        url: 'https://open.spotify.com/user/j4ghz4qlpc4zvfa1ult2vxadd?si=81a2fc9e9f934327',
+        type: 'social',
+        icon: '/spotify.svg',
+        on: true
+    },
     // Install section
 ];
 
