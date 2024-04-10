@@ -17,7 +17,7 @@ const webLinks = [
     },
     {
         title: 'Behance',
-        url: 'https://behance.net/Leonardo_Design',
+        url: 'https://behance.net/leodesignn',
         type: 'social',
         icon: '/behance.svg',
         on: true
